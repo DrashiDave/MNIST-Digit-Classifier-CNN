@@ -9,7 +9,7 @@ This project implements a **Convolutional Neural Network (CNN)** entirely from s
 ```
 .
 ├── mnist.npz                   # MNIST dataset
-├── notebook/code.py            # All model code
+├── notebook/code.ipynb            # All model code
 └── README.md                   # This documentation
 ```
 
